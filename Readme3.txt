@@ -1,0 +1,2 @@
+- Test that "add5files" branch got 5 more files than origin
+- And the "master" branch has this file over origin 
